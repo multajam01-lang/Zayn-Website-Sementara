@@ -1,0 +1,7 @@
+{
+  "name": "ZAYN - Antar Jemput, Jasa Suruh & Rekber",
+  "description": "Layanan antar jemput pribadi, sewa mobil + supir, jasa suruh harian, dan rekening bersama aman terpercaya 24 jam di Cibinong dan sekitarnya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
